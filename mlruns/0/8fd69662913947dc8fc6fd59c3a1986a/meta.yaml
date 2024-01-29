@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aarav/Downloads/Project/mlruns/0/8fd69662913947dc8fc6fd59c3a1986a/artifacts
+end_time: 1706306913109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fd69662913947dc8fc6fd59c3a1986a
+run_name: brawny-trout-770
+run_uuid: 8fd69662913947dc8fc6fd59c3a1986a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706306908492
+status: 3
+tags: []
+user_id: HarshPriyam
